@@ -1,4 +1,4 @@
-let maxNumber = 6;
+let maxNumber = 10;
 let secretNumber;
 let tries;
 let usedNumbers = [];
